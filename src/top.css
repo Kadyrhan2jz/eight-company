@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    padding-top: 90px;
+    padding-bottom:80px ;
+    position: relative;
+
+    display: flex;
+    gap: 30px;
+    max-width: 1300px;
+    flex:1;
+    
+   
+    
+}
+.title{
+    text-align: center;
+    padding: 1%;
+    font-size: 2rem;
+    
+}
+.all_title{
+font-size: 4rem;
+padding: 2%;
+}
+.pro{
+    text-align: left;
+    padding: 3%;
+    font-size: 4rem;
+}
+.col-img{
+    background: url(../src/images/all-project/all-project-col.jpg);
+    width: 50%;
+}
